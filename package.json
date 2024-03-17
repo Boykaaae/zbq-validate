@@ -1,0 +1,23 @@
+{
+	"name": "zbq-validate",
+	"version": "1.0.0",
+	"description": "正则校验",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Boykaaae/zbq-validate.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Boykaaae/zbq-validate/issues"
+	},
+	"homepage": "https://github.com/Boykaaae/zbq-validate#readme",
+	"dependencies": {
+		"jz-region": "^1.0.3",
+		"jz-validate": "^1.0.2"
+	}
+}
